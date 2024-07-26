@@ -1976,7 +1976,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton('Movies Request Group 🫶', url='https://t.me/+-duU_vRUZzswZDY1')
             ]]
         if CLONE_MODE == True:
-            buttons.append([InlineKeyboardButton('🤖 Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ 🤖', callback_data='clone')])
+            buttons.append([InlineKeyboardButton('🤡 Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ 🤡', callback_data='clone')])
         reply_markup = InlineKeyboardMarkup(buttons)
         await client.edit_message_media(
             query.message.chat.id, 
