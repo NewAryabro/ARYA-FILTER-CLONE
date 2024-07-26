@@ -8,7 +8,7 @@ class script(object):
     
     You Can Use Me 👉👈 And Thank you🌹 For start ❤ 
     
-    <a href=https://t.me/{}>{}</a></blockquote></b>"""
+     Our Another Bot <a href=https://t.me/{}>{}</a></blockquote></b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
     
